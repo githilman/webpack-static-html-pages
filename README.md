@@ -14,6 +14,8 @@ assembled with webpack. You could also use this repository as a template when cr
 
 Article explaining how this example was created: https://www.ivarprudnikov.com/static-website-multiple-html-pages-using-webpack-plus-github-example/
 
+# Test
+
 * Webpack4 implementation can still be found on a separate branch [`webpack4`](https://github.com/ivarprudnikov/webpack-static-html-pages/tree/webpack4)
 
 ## Prerequisites
